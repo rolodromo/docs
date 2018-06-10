@@ -4,7 +4,7 @@
 set -e
 
 # navigate into the build output directory
-cd docs/.vuepress/dist
+cd src/.vuepress/dist
 
 git init
 git add -A
